@@ -1,3 +1,1 @@
-los comandos de git, como se inicia un repositorio 
-como configurar el git
-como crear,elimar y modificar archivofa-spin
+echo "ramas Como ignorar archivos para no ser comprometidos en el área de trabajo. Cambiar de ramas y volver a la principal" > Informehoy.txt
